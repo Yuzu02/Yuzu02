@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages:</h3>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuzu02&show_icons=true&locale=en&layout=compact&theme=dark" alt="yuzu02" /></p>
+<p><img align="right" src="(https://github-readme-stats.vercel.app/api?username=Yuzu02&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="yuzu02" /></p>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
