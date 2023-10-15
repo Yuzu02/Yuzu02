@@ -50,17 +50,16 @@
 </p>
 
 
-
 <h3 align="right">Database:</h3>
 <p align="right">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yuzu02&show_icons=true&locale=en&theme=dark" alt="yuzu02" /></p>
-  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yuzu02&show_icons=true&locale=en&theme=dark" alt="yuzu02" /></p>
+
 </p>
 
 <h3 align="right">Tools:</h3>
