@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages:</h3>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuzu02&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="yuzu02" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuzu02&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="yuzu02" /></p>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
@@ -43,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="50" height="50"/>
 </p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuzu02&theme=synthwave&hide_border=false" alt="yuzu02" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuzu02&theme=radical&hide_border=false" alt="yuzu02" /></p>
 
 <h3 align="right">AI/ML:</h3>
 <p align="right">
@@ -63,7 +63,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
 
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Yuzu02&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false" /></p>
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Yuzu02&theme=radical&hide_border=false&include_all_commits=true&count_private=false" /></p>
 
 </p>
 
