@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yuzu</h1>
 <h3 align="center">A passionate Full Stack Developer , Student and an enthusiastic Data Scientist</h3>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Yuzu02&label=Profile%20Views&color=11&icon=7&pretty=false" />
-</a>
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yuzu02.Yuzu02&left_color=blueviolet&right_color=darkgrey&left_text=Profile Views"  />
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yuzu02&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="yuzu02" /></a> </p>
 
