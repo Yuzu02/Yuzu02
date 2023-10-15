@@ -63,7 +63,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
 
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yuzu02&show_icons=true&locale=en&theme=dark" alt="yuzu02" /></p>
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuzu02&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="yuzu02" /></p>
 
 </p>
 
