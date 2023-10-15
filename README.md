@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuzu02&label=Profile%20views&color=0e75b6&style=flat" alt="yuzu02" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuzu02" alt="yuzu02" /></a> </p>
+
 - 🌱 I’m currently learning **Reflex , Flet , Manim**
 - 💬 Ask me about **Python, Java, Julia**
 - 📫 How to reach me: **Yuzu_0204@outlook.com**
@@ -22,3 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuzu02&show_icons=true&locale=en" alt="yuzu02" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuzu02&" alt="yuzu02" /></p>
