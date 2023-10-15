@@ -50,7 +50,8 @@
    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" title="GraphQL" width="50" height="50"/>
 </p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuzu02&theme=radical&hide_border=false" alt="yuzu02" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Yuzu02&theme=radical&hide_border=false&include_all_commits=true&count_private=false" /></p>
 
 <h3 align="right">AI/ML:</h3>
 <p align="right">
@@ -70,8 +71,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" title="MongoDB" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL" width="50" height="50"/>
 
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Yuzu02&theme=radical&hide_border=false&include_all_commits=true&count_private=false" /></p>
-
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuzu02&theme=radical&hide_border=false" alt="yuzu02" /></p>
+  
 </p>
 
 <h3 align="right">Tools:</h3>
