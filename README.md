@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reflex , Flet , Manim**
 - 💬 Ask me about **Python, Java, Julia**
-- 📫 How to reach me: **Yuzu_0204@outlook.com
+- 📫 How to reach me: **Yuzu_0204@outlook.com**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I like to learn and help others, I am shy**
 
