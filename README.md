@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yuzu02&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="yuzu02" /></a> </p>
 
- <img src="https://media.tenor.com/3h-WLqgobUkAAAAd/marin-kitagawa.gif" height="160" alt="Marin Gif" title="Marin!!!!" align="right">
+ <img src="https://i.pinimg.com/originals/9f/6f/04/9f6f04a46f99e3411cc7b021504bfc33.gif" height="160" alt="Marin Gif" title="Marin!!!!" align="right">
 
 - 🌱 I’m currently learning **Reflex , Flet , Manim**
 - 💬 Ask me about **Python, Java, Julia**
