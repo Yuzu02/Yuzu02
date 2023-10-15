@@ -54,7 +54,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yuzu02&theme=dark" alt="yuzu02" /></p>
+
 <h3 align="right">Database:</h3>
 <p align="right">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
@@ -63,7 +63,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 </p>
-
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yuzu02&theme=dark" alt="yuzu02" /></p>
 <h3 align="right">Tools:</h3>
 <p align="right">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
