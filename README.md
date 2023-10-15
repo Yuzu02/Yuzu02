@@ -49,6 +49,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
 </p>
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yuzu02&show_icons=true&locale=en&theme=dark" alt="yuzu02" /></p>
+
 <h3 align="right">Database:</h3>
 <p align="right">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
@@ -59,7 +61,6 @@
 </p>
 
 <h3 align="right">Tools:</h3>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yuzu02&theme=dark" alt="yuzu02" /></p>
 <p align="right">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
