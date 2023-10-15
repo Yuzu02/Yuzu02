@@ -27,6 +27,7 @@
 </p>
 
 <h3 align="left">Front-end development:</h3>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yuzu02&show_icons=true&locale=en&theme=dark" alt="yuzu02" /></p>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
@@ -44,8 +45,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
 </p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yuzu02&show_icons=true&locale=en&theme=dark" alt="yuzu02" /></p>
 
 <h3 align="right">AI/ML:</h3>
 <p align="right">
