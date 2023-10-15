@@ -23,6 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="julia" width="40" height="40"/>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuzu02&show_icons=true&locale=en&layout=compact&theme=dark" alt="yuzu02" /></p>
 
 <h3 align="left">Front-end development:</h3>
 <p align="left">
@@ -70,7 +71,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuzu02&show_icons=true&locale=en&layout=compact&theme=dark" alt="yuzu02" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuzu02&show_icons=true&locale=en&theme=dark" alt="yuzu02" /></p>
 
