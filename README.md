@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer , Student and an enthusiastic Data Scientist</h3>
 
 <div align="left">
-  <img alt="Endpoint Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FYuzu02%2FYuzu02.svg%3Fstyle%3Dflat-square&label=Profile%20%20Viewvs&labelColor=blueviolet&color=darkgrey">
+  <img src="https://komarev.com/ghpvc/?username=yuzu02&label=Profile%20views&color=blueviolet&style=flat" alt="yuzu02" />
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yuzu02&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="yuzu02" /></a> </p>
