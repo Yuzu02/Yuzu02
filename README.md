@@ -12,12 +12,11 @@
 - ⚡ Fun fact: **I like to learn and help others, I am shy**
 
 <h3 align="left">Connect with me:</h3>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuzu02&show_icons=true&locale=en&layout=compact&theme=dark" alt="yuzu02" /></p>
 <p align="left">
 <a href="https://dev.to/yuzu02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yuzu02" height="30" width="40" /></a>
 <a href="https://instagram.com/yuzucchi0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuzucchi0204" height="30" width="40" /></a>
 </p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuzu02&show_icons=true&locale=en&layout=compact&theme=dark" alt="yuzu02" /></p>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
