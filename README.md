@@ -79,3 +79,5 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" title="Matlab" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="Bash Scripting" width="50" height="50"/> </a>
 </p>
+
+<img src="https://raw.githubusercontent.com/Yuzu02/Yuzu02/output/snake.svg" alt="Snake animation" />
