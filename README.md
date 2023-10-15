@@ -2,7 +2,33 @@
 <h3 align="center">A passionate Full Stack Developer , Student and an enthusiastic Data Scientist</h3>
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=yuzu02&label=Profile%20views&color=blueviolet&style=flat" alt="yuzu02" />
+  <table>
+    <tr>
+      <td style="text-align: left;">
+        <img src="https://komarev.com/ghpvc/?username=yuzu02&label=Profile%20views&color=blueviolet&style=flat" alt="yuzu02" />
+      </td>
+      <td>
+        <a href="https://discordapp.com/users/483845680469901317" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+        </a>
+      </td>
+      <td style="text-align: right;">
+        <a href="https://dev.to/yuzu02" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="devto logo"  />
+        </a>
+      </td>
+      <td>
+        <a href="https://twitter.com/Yuzucchi0204" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.instagram.com/yuzucchi0204/" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yuzu02&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="yuzu02" /></a> </p>
