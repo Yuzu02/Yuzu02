@@ -43,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="50" height="50"/>
 </p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yuzu02&theme=dark" alt="yuzu02" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuzu02&theme=radical&hide_border=false" alt="yuzu02" /></p>
 
 <h3 align="right">AI/ML:</h3>
 <p align="right">
