@@ -50,10 +50,8 @@
    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" title="GraphQL" width="50" height="50"/>
 </p>
 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuzu02&theme=radical&hide_border=false" alt="yuzu02" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Yuzu02&theme=radical&hide_border=false&include_all_commits=true&count_private=false" /></p>
-
-<h3 align="right">AI/ML:</h3>
 <p align="right">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" title="OpenCV" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" title="TensorFlow" width="50" height="50"/>
@@ -72,10 +70,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" title="SQLite" width="50" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" title="MongoDB" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL" width="50" height="50"/> 
-   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuzu02&theme=radical&hide_border=false" alt="yuzu02" /></p>
 </p>
+ 
 
-<h3 align="right">Tools:</h3>
+<h3 align="right">Tools:</h3> <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Yuzu02&theme=radical&hide_border=false&include_all_commits=true&count_private=false" /></p>
 <p align="right">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" title="Git" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="Linux" width="50" height="50"/>
