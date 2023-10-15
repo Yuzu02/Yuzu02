@@ -58,7 +58,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuzu02&show_icons=true&locale=en&layout=compact&theme=dark" alt="yuzu02" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuzu02&theme=dark" alt="yuzu02" /></p>
 
 </p>
 
