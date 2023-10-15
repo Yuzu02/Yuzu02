@@ -74,7 +74,7 @@
 </p>
  
 
-<h3 align="right">Tools:</h3> <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Yuzu02&theme=radical&hide_border=false&include_all_commits=true&count_private=false" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Yuzu02&theme=radical&hide_border=false&include_all_commits=true&count_private=false" /></p> <h3 align="right">Tools:</h3> 
 <p align="right">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" title="Git" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="Linux" width="50" height="50"/>
