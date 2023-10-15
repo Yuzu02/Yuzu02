@@ -66,13 +66,13 @@
  
 
 <h3 align="right">Database:</h3>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuzu02&theme=radical&hide_border=false" alt="yuzu02" /></p>
 <p align="right">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" title="PostgreSQL" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" title="CassandraDB" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" title="SQLite" width="50" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" title="MongoDB" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL" width="50" height="50"/> 
+   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuzu02&theme=radical&hide_border=false" alt="yuzu02" /></p>
 </p>
 
 <h3 align="right">Tools:</h3>
