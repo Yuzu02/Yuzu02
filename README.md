@@ -40,7 +40,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yuzu02&show_icons=true&locale=en&theme=dark" alt="yuzu02" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yuzu02&theme=dark" alt="yuzu02" /></p>
 
 <h3 align="right">AI/ML:</h3>
 <p align="right">
@@ -58,7 +58,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yuzu02&theme=dark" alt="yuzu02" /></p>
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yuzu02&show_icons=true&locale=en&theme=dark" alt="yuzu02" /></p>
 
 </p>
 
