@@ -15,16 +15,17 @@
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I like to learn and help others, I am shy**  
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuzu02&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="yuzu02" />
 
 <h3 align="left">Languages:</h3>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuzu02&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="yuzu02" /></p>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="julia" title="Julia" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" title="C#" width="50" height="50"/>
 </p>
+
+
 
 <h3 align="left">Front-end development:</h3>
 <p align="left">
