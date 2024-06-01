@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuzu</h1>
-<h3 align="center">A passionate Full Stack Developer , Student and an enthusiastic Data Scientist</h3>
+<h3 align="center">A passionate Full Stack Developer and Student</h3>
 
 <div align="left">
    <img src="https://komarev.com/ghpvc/?username=yuzu02&label=Profile%20views&color=blueviolet&style=flat" alt="yuzu02" />
@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yuzu02&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="yuzu02" /></a> </p>
 
 
-- 🌱 I’m currently learning **Reflex**
+- 🌱 I’m currently learning **Next JS**
 - 💬 Ask me about **Python and C#**
 - 📫 How to reach me: **Yuzu_0204@outlook.com**
 - 😄 Pronouns: **She/Her**
@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages:</h3>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuzu02&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="yuzu02" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuzu02&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="yuzu02" /></p>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="50" height="50"/>
@@ -38,6 +38,8 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" title="TailwindCSS" width="50" height="50"/>
 </p>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Yuzu02&theme=radical&hide_border=true&include_all_commits=true&count_private=false" /></p> 
+
 <h3 align="left">Back-end development:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" title="Flask" width="50" height="50"/>
@@ -48,22 +50,9 @@
    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" title="GraphQL" width="50" height="50"/>
 </p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuzu02&theme=radical&hide_border=false" alt="yuzu02" /></p>
 
-<h3 align="right">AI/ML:</h3>
-<p align="right">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" title="OpenCV" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" title="TensorFlow" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" title="PyTorch" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas" width="50" height="50"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" title="Seaborn" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" title="Scikit Learn" width="50" height="50"/>
-</p>
-
- 
-
-<h3 align="right">Database:</h3>
-<p align="right">
+<h3 align="left">Database:</h3>
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" title="PostgreSQL" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" title="CassandraDB" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" title="SQLite" width="50" height="40"/>
@@ -72,8 +61,10 @@
 </p>
  
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Yuzu02&theme=radical&hide_border=false&include_all_commits=true&count_private=false" /></p> <h3 align="right">Tools:</h3> 
-<p align="right">
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuzu02&theme=radical&hide_border=true" alt="yuzu02" /></p>
+
+<h3 align="left">Tools:</h3> 
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" title="Git" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="Linux" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" title="Docker" width="50" height="50"/>
