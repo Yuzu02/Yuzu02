@@ -43,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" title="Next JS" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" title="FastAPI" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" title="NodeJS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" title="ExpressJS" width="50" height="50"/>
   
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" title="GraphQL" width="50" height="50"/>
 </p>
