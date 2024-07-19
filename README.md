@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yuzu</h1>
-<h3 align="center">A passionate Full Stack Developer and Student</h3>
-
 <div align="left">
    <img src="https://komarev.com/ghpvc/?username=yuzu02&label=Profile%20views&color=blueviolet&style=flat" alt="yuzu02" />
 </div>
 
+<h1 align="center">Hi 👋, I'm Yuzu</h1>
+<h3 align="center">A passionate Full Stack Developer and Student</h3>
 
 <!-- 
 <p align="left"> 
