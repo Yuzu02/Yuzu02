@@ -74,6 +74,11 @@
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="Bash Scripting" width="50" height="50"/> </a>
 </p>
 
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
 <br clear="both">
 
 <div align="left">
