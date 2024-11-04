@@ -102,7 +102,7 @@ Markdown          45 mins         ▓░░░░░░░░░░░░░░�
   <a href="https://t.me/Yuzu02" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
   </a>
-  <a href="https://www.instagram.com/yuzucchi0204/" target="_blank">
+  <a href="https://www.instagram.com/yuzuchi_02/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
 </div>
