@@ -77,7 +77,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   7 mins          █████████████████████████   100.00 %
+PowerShell   47 mins         █████████████████████▒░░░   85.60 %
+Python       7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
 ```
 
 <!--END_SECTION:waka-->
