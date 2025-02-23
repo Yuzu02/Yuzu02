@@ -77,11 +77,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 hrs 28 mins   ███████████████████████░░   92.26 %
-Python       27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python       27 mins         ████████████████████████▓   99.30 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
