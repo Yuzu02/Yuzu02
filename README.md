@@ -15,7 +15,7 @@
 
 
 - 🌱 I’m currently learning **Next JS**
-- 💬 Ask me about **Python and C#**
+- 💬 Ask me about **Python and Typescript**
 - 📫 How to reach me: **Yuzu_0204@outlook.com**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I like to learn and help others, I am shy**  
