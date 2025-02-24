@@ -41,7 +41,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" title="TailwindCSS" width="50" height="50"/>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Yuzu02&theme=radical&hide_border=true&include_all_commits=true&count_private=false" /></p> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Yuzu02&theme=radical&hide_border=true&count_private=false" /></p> 
 
 <h3 align="left">Back-end development:</h3>
 <p align="left">
