@@ -14,7 +14,7 @@
 -->
 
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **NestJS**
 - 💬 Ask me about **Python and Typescript**
 - 📫 How to reach me: **Yuzu_0204@outlook.com**
 - 😄 Pronouns: **She/Her**
@@ -25,9 +25,9 @@
 <h3 align="left">Languages:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="julia" title="Julia" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" title="C#" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="C#" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" title="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" title="C#" width="50" height="50"/>
 </p>
 
 
@@ -36,20 +36,20 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" title="HTML5" width="50" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" title="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="React" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" title="TailwindCSS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" title="Next JS" width="50" height="50"/>
 </p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yuzu02&theme=radical&hide_border=true&count_private=false" /></p> 
 
 <h3 align="left">Back-end development:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" title="Next JS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" title="ExpressJS" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" title="FastAPI" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" title="Django" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" title="ExpressJS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="Fastapi" title="FastAPI" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/graphql/graphql-plain.svg" alt="GraphQL" tittle="GraphQL" width="50" height="50"/>
+  <img src="https://avatars.githubusercontent.com/u/119793569?s=200&v=4" alt="Elysia" tittle="Elysia" width="50" height="50"/>
 </p>
 
 
@@ -57,8 +57,8 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" title="PostgreSQL" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" title="CassandraDB" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" title="SQLite" width="50" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" title="MongoDB" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/firebase/firebase-original.svg" alt="FireBase" title="FireBase" width="50" height="50"/>
 </p>
  
 
@@ -68,10 +68,10 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" title="Git" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="Linux" width="50" height="50"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter"  width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" alt="NixOS" title="NixOS" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" title="Docker" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" title="Kubernetes" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="Bash Scripting" width="50" height="50"/> </a>
 </p>
 
 <!--START_SECTION:waka-->
