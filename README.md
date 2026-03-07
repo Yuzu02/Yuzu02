@@ -20,8 +20,9 @@
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I like to learn and help others, I am shy**  
 
+<!-- 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuzu02&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="yuzu02" /> </p>
-
+-->
 <h3 align="left">Languages:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="50" height="50"/>
@@ -29,7 +30,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" title="JavaScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" title="C#" width="50" height="50"/>
 </p>
-
 
 
 <h3 align="left">Front-end development:</h3>
@@ -41,7 +41,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" title="Next JS" width="50" height="50"/>
 </p>
 
+<!-- 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yuzu02&theme=radical&hide_border=true&count_private=false" /></p> 
+-->
 
 <h3 align="left">Back-end development:</h3>
 <p align="left">
@@ -62,8 +64,6 @@
 </p>
  
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuzu02&theme=radical&hide_border=true" alt="yuzu02" /></p>
-
 <h3 align="left">Tools:</h3> 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" title="Git" width="50" height="50"/>
@@ -73,6 +73,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" title="Docker" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" title="Kubernetes" width="50" height="50"/>
 </p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuzu02&theme=radical&hide_border=true" alt="yuzu02" /></p>
+
+
 
 <!--START_SECTION:waka-->
 
