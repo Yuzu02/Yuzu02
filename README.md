@@ -81,11 +81,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        8 hrs 18 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.75 %
-Markdown     6 hrs 26 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
-PowerShell   6 hrs 1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
-TypeScript   5 hrs 33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
-JSON         4 hrs 44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
+Markdown     8 hrs 19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.08 %
+Other        7 hrs 42 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.68 %
+TypeScript   7 hrs 9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
+JSON         5 hrs 46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
+TOML         4 hrs 31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
 ```
 
 <!--END_SECTION:waka-->
