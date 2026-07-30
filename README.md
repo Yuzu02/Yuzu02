@@ -81,10 +81,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Docker   9 mins                ████████████████████████░   95.85 %
-TOML     0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-YAML     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Other    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
