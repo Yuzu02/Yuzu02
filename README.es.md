@@ -38,6 +38,7 @@ Actualmente me enfoco en **TypeScript + Effect**, el desarrollo de interfaces cu
   <a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" title="TypeScript" /></a> &ensp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript" /></a> &ensp;
   <a href="https://www.python.org" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python" /></a> &ensp;
+  <a href="https://www.rust-lang.org" title="Rust"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/rust/000000" /><img src="https://cdn.simpleicons.org/rust/000000" width="48" height="48" alt="Rust" title="Rust" /></picture></a> &ensp;
   <a href="https://dart.dev" title="Dart"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" title="Dart" /></a> &ensp;
 </p>
 
@@ -107,12 +108,12 @@ Me gusta entender el *porqué* antes de decidir el *cómo*. Después construyo e
 ## Dónde encontrarme
 
 <p align="center">
-  <a href="mailto:Yuzu_0204@outlook.com"><img src="https://img.shields.io/badge/Correo-7C3AED?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=white" height="30" alt="Correo electrónico" /></a>
-  <a href="https://discord.com/users/483845680469901317"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" height="30" alt="Discord" /></a>
-  <a href="https://dev.to/yuzu02"><img src="https://img.shields.io/badge/DEV.to-0D1117?style=for-the-badge&amp;logo=devdotto&amp;logoColor=white" height="30" alt="DEV.to" /></a>
-  <a href="https://x.com/Yuzucchi0204"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&amp;logo=x&amp;logoColor=white" height="30" alt="X" /></a>
-  <a href="https://t.me/Yuzu02"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" height="30" alt="Telegram" /></a>
-  <a href="https://www.instagram.com/yuzuchi_02/"><img src="https://img.shields.io/badge/Instagram-D94680?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" height="30" alt="Instagram" /></a>
+  <a href="mailto:Yuzu_0204@outlook.com" title="Abrir Correo"><img src="assets/contact-email.es.svg" width="157" height="56" alt="Correo" title="Correo" /></a>
+  <a href="https://discord.com/users/483845680469901317" title="Abrir Discord"><img src="assets/contact-discord.es.svg" width="165" height="56" alt="Discord" title="Discord" /></a>
+  <a href="https://dev.to/yuzu02" title="Abrir DEV.to"><img src="assets/contact-devto.es.svg" width="154" height="56" alt="DEV.to" title="DEV.to" /></a>
+  <a href="https://x.com/Yuzucchi0204" title="Abrir X"><img src="assets/contact-x.es.svg" width="103" height="56" alt="X" title="X" /></a>
+  <a href="https://t.me/Yuzu02" title="Abrir Telegram"><img src="assets/contact-telegram.es.svg" width="177" height="56" alt="Telegram" title="Telegram" /></a>
+  <a href="https://www.instagram.com/yuzuchi_02/" title="Abrir Instagram"><img src="assets/contact-instagram.es.svg" width="185" height="56" alt="Instagram" title="Instagram" /></a>
 </p>
 
 <p align="center">

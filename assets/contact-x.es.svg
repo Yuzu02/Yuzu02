@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 103 56" role="img" aria-labelledby="title desc">
+  <title id="title">X</title>
+  <desc id="desc">Acceso al perfil o contacto de X</desc>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#151827"/><stop offset="1" stop-color="#232036"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22242D"/><stop offset="1" stop-color="#22242D"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="101" height="54" rx="14" fill="url(#card)" stroke="#D6D8E0" stroke-opacity=".62" stroke-width="1.5"/>
+  <path d="M13 2 H90" stroke="#D6D8E0" stroke-opacity=".30" stroke-linecap="round"/>
+  <rect x="9" y="9" width="38" height="38" rx="11" fill="url(#brand)" stroke="#D6D8E0" stroke-opacity=".36"/>
+  <g transform="translate(16 16)"><path d="M14.234 10.162 22.977 0h-2.072l-7.591 8.824L7.251 0H.258l9.168 13.343L.258 24H2.33l8.016-9.318L16.749 24h6.993zm-2.837 3.299-.929-1.329L3.076 1.56h3.182l5.965 8.532.929 1.329 7.754 11.09h-3.182z" fill="#FFFFFF"/></g>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif">
+    <text x="57" y="21" font-size="9.5" font-weight="650" letter-spacing=".6" fill="#D1D5DB">REDES</text>
+    <text x="57" y="39" font-size="15.5" font-weight="700" fill="#FAF8FF">X</text>
+  </g>
+</svg>

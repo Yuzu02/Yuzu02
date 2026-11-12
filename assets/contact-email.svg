@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 157 56" role="img" aria-labelledby="title desc">
+  <title id="title">Email</title>
+  <desc id="desc">Visit or contact Yuzu via Email</desc>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#151827"/><stop offset="1" stop-color="#232036"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2A1B42"/><stop offset="1" stop-color="#4A2B6C"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="155" height="54" rx="14" fill="url(#card)" stroke="#B69CFF" stroke-opacity=".62" stroke-width="1.5"/>
+  <path d="M13 2 H144" stroke="#B69CFF" stroke-opacity=".30" stroke-linecap="round"/>
+  <rect x="9" y="9" width="38" height="38" rx="11" fill="url(#brand)" stroke="#B69CFF" stroke-opacity=".36"/>
+  <g transform="translate(16 16)"><g fill="none" stroke="#F7F2FF" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="0" y="3" width="24" height="18" rx="3"/><path d="m1.6 5.5 10.4 8 10.4-8"/></g></g>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif">
+    <text x="57" y="21" font-size="9.5" font-weight="650" letter-spacing=".6" fill="#CFB7FF">SAY HELLO</text>
+    <text x="57" y="39" font-size="15.5" font-weight="700" fill="#FAF8FF">Email</text>
+  </g>
+</svg>
