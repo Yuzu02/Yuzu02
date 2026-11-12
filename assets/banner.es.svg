@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1180 350" role="img" aria-labelledby="title desc">
+  <title id="title">¡Hola! Soy Yuzu</title>
+  <desc id="desc">Desarrolladora full-stack, CTO de SICOTILab y estudiante. TypeScript, Effect, datos e infraestructura.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0b1023"/><stop offset=".54" stop-color="#181332"/><stop offset="1" stop-color="#261343"/></linearGradient>
+    <radialGradient id="orb" cx=".5" cy=".5" r=".65"><stop stop-color="#a78bfa" stop-opacity=".32"/><stop offset="1" stop-color="#5b21b6" stop-opacity="0"/></radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ffffff"/><stop offset=".48" stop-color="#eee6ff"/><stop offset="1" stop-color="#c4b5fd"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8b5cf6"/><stop offset="1" stop-color="#50e3cb"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#b5a4ff" stroke-opacity=".065" stroke-width="1"/></pattern>
+    <clipPath id="round"><rect x="1" y="1" width="1178" height="348" rx="24"/></clipPath>
+    <filter id="blur"><feGaussianBlur stdDeviation="27"/></filter>
+    <filter id="glow"><feGaussianBlur stdDeviation="3"/></filter>
+  </defs>
+  <rect width="1180" height="350" rx="24" fill="url(#background)"/>
+  <g clip-path="url(#round)">
+    <path d="M0 270 C310 145 480 330 710 190 S1080 200 1180 40 V350 H0 Z" fill="#7439bd" opacity=".075"/>
+    <circle cx="1020" cy="134" r="220" fill="url(#orb)"/>
+    <circle cx="1010" cy="156" r="130" fill="#b794f8" opacity=".1" filter="url(#blur)"/>
+    <rect x="0" y="0" width="1180" height="350" fill="url(#grid)"/>
+    <path d="M830 0 L940 350 M1040 0 L1140 350" stroke="#a78bfa" stroke-width="1" opacity=".05"/>
+    <g transform="translate(1000 171)">
+      <circle r="123" fill="none" stroke="#9a7cff" stroke-width="1" stroke-opacity=".24" stroke-dasharray="5 13"/>
+      <circle r="104" fill="none" stroke="#ae91ff" stroke-width="1.5" stroke-opacity=".42"/>
+      <circle r="87" fill="none" stroke="#51e6cd" stroke-width="1" stroke-opacity=".26" stroke-dasharray="3 10"/>
+      <path d="M-110 -52 Q0 -166 110 -50 M-110 52 Q0 166 110 50" fill="none" stroke="#c4b5fd" stroke-opacity=".4" stroke-width="1.5"/>
+      <circle r="72" fill="#0c1127" stroke="#a78bfa" stroke-width="2.2"/>
+      <circle r="61" fill="#261744"/>
+      <path d="M-17 -21 L0 6 L17 -21 M0 6 V33" fill="none" stroke="url(#accent)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="-93" cy="-50" r="7" fill="#59ead2"/>
+      <circle cx="107" cy="25" r="6" fill="#d8bcff"/>
+      <circle cx="20" cy="-105" r="5" fill="#ae8aff"/>
+      <path d="M-141 16 h14 M-134 9 v14 M134 -54 h14 M141 -61 v14" stroke="#beaaff" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <g font-family="Segoe UI, Inter, Arial, sans-serif">
+      <rect x="65" y="46" width="160" height="32" rx="16" fill="#9f79ff" fill-opacity=".12" stroke="#aa8cf5" stroke-opacity=".44"/>
+      <circle cx="84" cy="62" r="5" fill="#68e9d2"/>
+      <text x="101" y="67" font-size="14" fill="#ddd1ff" font-weight="650" letter-spacing="1.5">HOLA, MUNDO</text>
+      <text x="63" y="159" font-weight="800" font-size="81" letter-spacing="-3.5" fill="url(#name)">Hi, I'm Yuzu!</text>
+      <text x="66" y="206" font-size="23" font-weight="500" fill="#f0eaff">Desarrolladora full-stack  ·  CTO en SICOTILab  ·  Estudiante</text>
+      <text x="66" y="244" font-size="20" fill="#bebbd5">Creando interfaces cuidadas y sistemas confiables.</text>
+      <g font-family="Consolas, Menlo, monospace" font-size="14" font-weight="600">
+        <rect x="66" y="274" rx="13" width="143" height="34" fill="#8055d7" fill-opacity=".22" stroke="#aa8cff" stroke-opacity=".55"/>
+        <text x="89" y="296" fill="#d9ceff">TypeScript</text>
+        <rect x="222" y="274" rx="13" width="113" height="34" fill="#8055d7" fill-opacity=".22" stroke="#aa8cff" stroke-opacity=".55"/>
+        <text x="245" y="296" fill="#d9ceff">Effect</text>
+        <rect x="349" y="274" rx="13" width="110" height="34" fill="#215c62" fill-opacity=".27" stroke="#75e7d5" stroke-opacity=".55"/>
+        <text x="377" y="296" fill="#a9fff0">Datos / IA</text>
+        <rect x="473" y="274" rx="13" width="143" height="34" fill="#8055d7" fill-opacity=".22" stroke="#aa8cff" stroke-opacity=".55"/>
+        <text x="495" y="296" fill="#d9ceff">Código abierto</text>
+      </g>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1178" height="348" rx="24" fill="none" stroke="#8b5cf6" stroke-opacity=".34" stroke-width="2"/>
+</svg>

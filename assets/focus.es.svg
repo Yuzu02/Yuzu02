@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 230" role="img" aria-labelledby="title desc">
+<title id="title">Lo que me gusta construir</title>
+<desc id="desc">Software tipado, datos e IA aplicada, e infraestructura y experiencia de desarrollo.</desc>
+<defs>
+<linearGradient id="c0" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#1b1938"/><stop offset="1" stop-color="#12192b"/></linearGradient>
+<linearGradient id="c1" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#142c37"/><stop offset="1" stop-color="#101a29"/></linearGradient>
+<linearGradient id="c2" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#251b38"/><stop offset="1" stop-color="#171729"/></linearGradient>
+</defs>
+<g font-family="Segoe UI, Inter, Arial, sans-serif">
+<rect x="1" y="1" width="373" height="228" rx="19" fill="url(#c0)" stroke="#9c83f6" stroke-opacity=".45" stroke-width="2"/>
+<rect x="403" y="1" width="373" height="228" rx="19" fill="url(#c1)" stroke="#63dfce" stroke-opacity=".45" stroke-width="2"/>
+<rect x="805" y="1" width="373" height="228" rx="19" fill="url(#c2)" stroke="#df9df3" stroke-opacity=".42" stroke-width="2"/>
+<!-- effect / typed services card -->
+<circle cx="331" cy="45" r="22" fill="#9d85f9" fill-opacity=".12"/><path d="M320 45 l8 8 l13 -18" fill="none" stroke="#b5a1ff" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="29" y="51" font-size="15" font-weight="700" fill="#bfaaff" letter-spacing="1.6">01 / SOFTWARE</text>
+<text x="29" y="102" font-size="27" font-weight="750" fill="#f4f0ff">Sistemas tipados</text>
+<text x="29" y="137" font-size="17" fill="#b9b7cb">Effect, APIs y contratos</text>
+<text x="29" y="162" font-size="17" fill="#b9b7cb">claros y resistentes.</text>
+<path d="M29 192 H345" stroke="#8e74ef" stroke-opacity=".38"/><circle cx="39" cy="192" r="4" fill="#ab90ff"/><circle cx="345" cy="192" r="4" fill="#ab90ff"/>
+<!-- AI / data card -->
+<circle cx="728" cy="44" r="21" fill="#63dfce" fill-opacity=".12"/><circle cx="722" cy="40" r="5" fill="#7deddf"/><circle cx="739" cy="54" r="5" fill="#7deddf"/><path d="M722 40 L739 54" stroke="#7deddf" stroke-width="2"/>
+<text x="432" y="51" font-size="15" font-weight="700" fill="#88f0e1" letter-spacing="1.6">02 / DATOS + IA</text>
+<text x="432" y="102" font-size="27" font-weight="750" fill="#effffa">Búsqueda e IA</text>
+<text x="432" y="137" font-size="17" fill="#b2c9d0">Embeddings, búsqueda,</text>
+<text x="432" y="162" font-size="17" fill="#b2c9d0">matching y evaluación.</text>
+<path d="M432 192 H746" stroke="#5fd7ca" stroke-opacity=".38"/><circle cx="442" cy="192" r="4" fill="#7defdf"/><circle cx="746" cy="192" r="4" fill="#7defdf"/>
+<!-- platform card -->
+<circle cx="1135" cy="44" r="21" fill="#eba7f6" fill-opacity=".12"/><path d="M1125 43 h20 M1135 33 v20" stroke="#e5b4f4" stroke-width="3" stroke-linecap="round"/>
+<text x="834" y="51" font-size="15" font-weight="700" fill="#ebb5fa" letter-spacing="1.6">03 / PLATAFORMAS</text>
+<text x="834" y="102" font-size="27" font-weight="750" fill="#fff0fc">Infraestructura y DX</text>
+<text x="834" y="137" font-size="17" fill="#c5b8ce">Automatización, sistemas,</text>
+<text x="834" y="162" font-size="17" fill="#c5b8ce">herramientas para devs.</text>
+<path d="M834 192 H1148" stroke="#dda3ed" stroke-opacity=".38"/><circle cx="844" cy="192" r="4" fill="#ebaff6"/><circle cx="1148" cy="192" r="4" fill="#ebaff6"/>
+</g>
+</svg>

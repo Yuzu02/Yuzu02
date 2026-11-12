@@ -1,6 +1,6 @@
 <!-- Yuzu · personal GitHub profile README | icons display names on hover via title attributes -->
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Yuzu02&amp;label=Profile%20views&amp;color=8b5cf6&amp;style=flat" alt="Profile views" />
+<div align="right">
+  <sub>🌐 <strong>English</strong> · <a href="https://github.com/Yuzu02/Yuzu02/blob/main/README.es.md">Español</a></sub>
 </div>
 
 <div align="center">
@@ -26,8 +26,6 @@ These days, I'm especially into **TypeScript + Effect**, thoughtful frontend eng
 <p align="center">
   <img src="assets/focus.svg" width="100%" alt="Typed systems with Effect; semantic search, retrieval, and applied AI; infrastructure, automation and developer tools." />
 </p>
-
-I also contribute to **[Moon](https://github.com/moonrepo/moon)** and **[Alchemy](https://github.com/alchemy-run/alchemy)**. I like making the tools I rely on a little better, and learning from the people building them.
 
 ## Technologies & tools
 
