@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 169" role="img" aria-labelledby="title desc">
+<title id="title">How I like to build</title>
+<desc id="desc">Explore, model, build, verify, and refine.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#11162b"/><stop offset="1" stop-color="#1c1433"/></linearGradient><linearGradient id="line" x1="0" x2="1"><stop stop-color="#ae93ff"/><stop offset="1" stop-color="#5be6d1"/></linearGradient></defs>
+<rect width="1180" height="169" rx="19" fill="url(#bg)" stroke="#57427e" stroke-opacity=".55" stroke-width="2"/>
+<g font-family="Segoe UI, Inter, Arial, sans-serif">
+<!-- connected stages, no HTML tables or baseline misalignments -->
+<path d="M201 84 H242 M427 84 H468 M653 84 H694 M879 84 H920" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+<g fill="none" stroke="#aa92ed" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M235 77 l7 7 -7 7"/><path d="M461 77 l7 7 -7 7"/><path d="M687 77 l7 7 -7 7"/><path d="M913 77 l7 7 -7 7"/></g>
+<g>
+<rect x="20" y="31" width="181" height="106" rx="16" fill="#282045" stroke="#795aca"/>
+<rect x="246" y="31" width="181" height="106" rx="16" fill="#232341" stroke="#795aca"/>
+<rect x="472" y="31" width="181" height="106" rx="16" fill="#222944" stroke="#5ed9ca"/>
+<rect x="698" y="31" width="181" height="106" rx="16" fill="#222341" stroke="#795aca"/>
+<rect x="924" y="31" width="236" height="106" rx="16" fill="#252244" stroke="#a682f0"/>
+</g>
+<g text-anchor="middle">
+<text x="110" y="65" font-size="14" fill="#b8a2fa">01</text><text x="110" y="99" font-size="21" font-weight="700" fill="#f2ebff">Explore</text><text x="110" y="121" font-size="13" fill="#bbb4d2">ask why</text>
+<text x="336" y="65" font-size="14" fill="#b8a2fa">02</text><text x="336" y="99" font-size="21" font-weight="700" fill="#f2ebff">Model</text><text x="336" y="121" font-size="13" fill="#bbb4d2">make it clear</text>
+<text x="562" y="65" font-size="14" fill="#84f2df">03</text><text x="562" y="99" font-size="21" font-weight="700" fill="#eafffa">Build</text><text x="562" y="121" font-size="13" fill="#b3d4d3">ship a slice</text>
+<text x="788" y="65" font-size="14" fill="#b8a2fa">04</text><text x="788" y="99" font-size="21" font-weight="700" fill="#f2ebff">Verify</text><text x="788" y="121" font-size="13" fill="#bbb4d2">test the edges</text>
+<text x="1042" y="65" font-size="14" fill="#b8a2fa">05</text><text x="1042" y="99" font-size="21" font-weight="700" fill="#f2ebff">Refine</text><text x="1042" y="121" font-size="13" fill="#bbb4d2">learn and repeat</text>
+</g>
+</g>
+</svg>
