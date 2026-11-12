@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 187 56" role="img" aria-labelledby="title desc">
+  <title id="title">Portfolio</title>
+  <desc id="desc">Visit Yuzu's portfolio.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#201A38"/><stop offset="1" stop-color="#32234F"/>
+    </linearGradient>
+    <linearGradient id="icon-bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#C8B5FF" stop-opacity=".19"/>
+      <stop offset="1" stop-color="#C8B5FF" stop-opacity=".06"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="185" height="54" rx="14" fill="url(#bg)" stroke="#6D61AD" stroke-width="1.5"/>
+  <path d="M13 2 H174" stroke="#C8B5FF" stroke-width="1" stroke-opacity=".20" stroke-linecap="round"/>
+  <rect x="9" y="9" width="39" height="38" rx="11" fill="url(#icon-bg)" stroke="#C8B5FF" stroke-opacity=".25"/>
+  <rect x="15.5" y="18" width="24" height="20" rx="4" fill="none" stroke="#C8B5FF" stroke-width="1.9"/><path d="M16 24h23M26 32l5-5m-5 0h5v5" fill="none" stroke="#C8B5FF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><circle cx="20" cy="21" r=".8" fill="#C8B5FF"/>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif">
+    <text x="59" y="21" font-size="9.5" letter-spacing=".65" font-weight="650" fill="#BDB6D6">THINGS I BUILD</text>
+    <text x="59" y="39" font-size="16" font-weight="700" fill="#F7F4FF">Portfolio</text>
+  </g>
+  <path d="m169 24 5 5-5 5" fill="none" stroke="#C8B5FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

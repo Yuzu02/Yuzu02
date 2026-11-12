@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 209 56" role="img" aria-labelledby="title desc">
+  <title id="title">Open source</title>
+  <desc id="desc">Browse public repositories and open-source projects.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#11252B"/><stop offset="1" stop-color="#1B2737"/>
+    </linearGradient>
+    <linearGradient id="icon-bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#70E7CF" stop-opacity=".19"/>
+      <stop offset="1" stop-color="#70E7CF" stop-opacity=".06"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="207" height="54" rx="14" fill="url(#bg)" stroke="#327C87" stroke-width="1.5"/>
+  <path d="M13 2 H196" stroke="#70E7CF" stroke-width="1" stroke-opacity=".20" stroke-linecap="round"/>
+  <rect x="9" y="9" width="39" height="38" rx="11" fill="url(#icon-bg)" stroke="#70E7CF" stroke-opacity=".25"/>
+  <g stroke="#70E7CF" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" fill="none"><path d="M21 18v14.5h12M21 18h11"/><path d="M32 18v7.5h-11"/></g><g fill="#70E7CF"><circle cx="21" cy="17.5" r="3.5"/><circle cx="32.5" cy="17.5" r="3.5"/><circle cx="32.5" cy="32.5" r="3.5"/></g>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif">
+    <text x="59" y="21" font-size="9.5" letter-spacing=".65" font-weight="650" fill="#9ACDC8">BUILDING TOGETHER</text>
+    <text x="59" y="39" font-size="16" font-weight="700" fill="#F7F4FF">Open source</text>
+  </g>
+  <path d="m189 24 5 5-5 5" fill="none" stroke="#70E7CF" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>
