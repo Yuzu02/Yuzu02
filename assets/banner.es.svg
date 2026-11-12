@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1180 350" role="img" aria-labelledby="title desc">
   <title id="title">¡Hola! Soy Yuzu</title>
-  <desc id="desc">Desarrolladora full-stack, CTO de SICOTILab y estudiante. TypeScript, Effect, datos e infraestructura.</desc>
+  <desc id="desc">Desarrolladora full-stack y CTO de SICOTILab. TypeScript, Effect, datos e infraestructura.</desc>
   <defs>
     <linearGradient id="background" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0b1023"/><stop offset=".54" stop-color="#181332"/><stop offset="1" stop-color="#261343"/></linearGradient>
     <radialGradient id="orb" cx=".5" cy=".5" r=".65"><stop stop-color="#a78bfa" stop-opacity=".32"/><stop offset="1" stop-color="#5b21b6" stop-opacity="0"/></radialGradient>
@@ -35,8 +35,8 @@
       <rect x="65" y="46" width="160" height="32" rx="16" fill="#9f79ff" fill-opacity=".12" stroke="#aa8cf5" stroke-opacity=".44"/>
       <circle cx="84" cy="62" r="5" fill="#68e9d2"/>
       <text x="101" y="67" font-size="14" fill="#ddd1ff" font-weight="650" letter-spacing="1.5">HOLA, MUNDO</text>
-      <text x="63" y="159" font-weight="800" font-size="81" letter-spacing="-3.5" fill="url(#name)">Hi, I'm Yuzu!</text>
-      <text x="66" y="206" font-size="23" font-weight="500" fill="#f0eaff">Desarrolladora full-stack  ·  CTO en SICOTILab  ·  Estudiante</text>
+      <text x="63" y="159" font-weight="800" font-size="81" letter-spacing="-3.5" fill="url(#name)">¡Hola! Soy Yuzu</text>
+      <text x="66" y="206" font-size="23" font-weight="500" fill="#f0eaff">Desarrolladora full-stack  ·  CTO en SICOTILab</text>
       <text x="66" y="244" font-size="20" fill="#bebbd5">Creando interfaces cuidadas y sistemas confiables.</text>
       <g font-family="Consolas, Menlo, monospace" font-size="14" font-weight="600">
         <rect x="66" y="274" rx="13" width="143" height="34" fill="#8055d7" fill-opacity=".22" stroke="#aa8cff" stroke-opacity=".55"/>

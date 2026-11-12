@@ -1,10 +1,11 @@
 <!-- Yuzu · personal GitHub profile README | icons display names on hover via title attributes -->
 <div align="right">
-  <sub>🌐 <a href="https://github.com/Yuzu02">English</a> · <strong>Español</strong></sub>
+  <a href="https://github.com/Yuzu02" title="Read in English"><img src="assets/language-en.svg" width="148" height="42" alt="English — cambiar idioma" title="Read in English" /></a>
+  <img src="assets/language-es-active.svg" width="148" height="42" alt="Español — idioma seleccionado" title="Idioma actual: Español" />
 </div>
 
 <div align="center">
-  <img src="assets/banner.es.svg" width="100%" alt="¡Hola! Soy Yuzu: desarrolladora full-stack, CTO de SICOTILab y estudiante" />
+  <img src="assets/banner.es.svg" width="100%" alt="¡Hola! Soy Yuzu: desarrolladora full-stack y CTO de SICOTILab" />
 
   <a href="https://github.com/Yuzu02"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3200&amp;pause=1100&amp;color=9F86FF&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=750&amp;height=42&amp;lines=TypeScript%20%2B%20Effect%20%E2%99%A1;Interfaces%20cuidadas%20%E2%86%92%20sistemas%20confiables;B%C3%BAsqueda%2C%20datos%20e%20IA%20aplicada;Aprender%20%E2%86%92%20construir%20%E2%86%92%20compartir%20%E2%86%92%20repetir" alt="TypeScript y Effect. Interfaces cuidadas, sistemas confiables, búsqueda, datos e IA aplicada." /></a>
 
@@ -17,7 +18,7 @@
 
 ## Sobre mí (˶ᵔ ᵕ ᵔ˶)
 
-¡Hola! Soy **Yuzu**, desarrolladora **full-stack**, estudiante y **CTO de SICOTILab**. Me encanta convertir ideas en productos útiles, desde la interfaz hasta los servicios, los datos y la infraestructura que los sostienen.
+¡Hola! Soy **Yuzu**, desarrolladora **full-stack** y **CTO de SICOTILab**. Me encanta convertir ideas en productos útiles, desde la interfaz hasta los servicios, los datos y la infraestructura que los sostienen.
 
 Actualmente me enfoco en **TypeScript + Effect**, el desarrollo de interfaces cuidadas y los **sistemas de datos con inteligencia artificial**. Me gusta aprender y ayudar a otras personas, aunque sea un poquito tímida. ♡
 

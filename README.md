@@ -1,10 +1,11 @@
 <!-- Yuzu · personal GitHub profile README | icons display names on hover via title attributes -->
 <div align="right">
-  <sub>🌐 <strong>English</strong> · <a href="https://github.com/Yuzu02/Yuzu02/blob/main/README.es.md">Español</a></sub>
+  <img src="assets/language-en-active.svg" width="148" height="42" alt="English — selected language" title="Current language: English" />
+  <a href="https://github.com/Yuzu02/Yuzu02/blob/main/README.es.md" title="Read in Spanish"><img src="assets/language-es.svg" width="148" height="42" alt="Español — switch language" title="Read in Spanish" /></a>
 </div>
 
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Hi, I'm Yuzu — full-stack engineer, CTO at SICOTILab, and student" />
+  <img src="assets/banner.svg" width="100%" alt="Hi, I'm Yuzu — full-stack engineer and CTO at SICOTILab" />
 
   <a href="https://github.com/Yuzu02"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3200&amp;pause=1100&amp;color=9F86FF&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=750&amp;height=42&amp;lines=TypeScript+%2B+Effect+%E2%99%A1;Thoughtful+UI+%E2%86%92+reliable+systems;Search%2C+data%2C+and+applied+AI;Learn+%E2%86%92+build+%E2%86%92+share+%E2%86%92+repeat" alt="TypeScript and Effect. Thoughtful UI and reliable systems. Search, data and applied AI. Learn, build, share, repeat." /></a>
 
@@ -17,7 +18,7 @@
 
 ## About me (˶ᵔ ᵕ ᵔ˶)
 
-Hi! I'm **Yuzu**, a full-stack developer, a student, and the **CTO at SICOTILab**. I love turning ideas into things people can use, from the interface all the way down to the services, data, and infrastructure behind it.
+Hi! I'm **Yuzu**, a full-stack engineer and the **CTO at SICOTILab**. I love turning ideas into things people can use, from the interface all the way down to the services, data, and infrastructure behind it.
 
 These days, I'm especially into **TypeScript + Effect**, thoughtful frontend engineering, and **AI-powered data systems**. I love learning and helping others, even if I'm a little shy. ♡
 
