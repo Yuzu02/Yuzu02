@@ -108,12 +108,15 @@ Me gusta entender el *porqué* antes de decidir el *cómo*. Después construyo e
 ## Dónde encontrarme
 
 <p align="center">
-  <a href="mailto:Yuzu_0204@outlook.com" title="Abrir Correo"><img src="assets/contact-email.es.svg" width="157" height="56" alt="Correo" title="Correo" /></a>
-  <a href="https://discord.com/users/483845680469901317" title="Abrir Discord"><img src="assets/contact-discord.es.svg" width="165" height="56" alt="Discord" title="Discord" /></a>
-  <a href="https://dev.to/yuzu02" title="Abrir DEV.to"><img src="assets/contact-devto.es.svg" width="154" height="56" alt="DEV.to" title="DEV.to" /></a>
-  <a href="https://x.com/Yuzucchi0204" title="Abrir X"><img src="assets/contact-x.es.svg" width="103" height="56" alt="X" title="X" /></a>
-  <a href="https://t.me/Yuzu02" title="Abrir Telegram"><img src="assets/contact-telegram.es.svg" width="177" height="56" alt="Telegram" title="Telegram" /></a>
-  <a href="https://www.instagram.com/yuzuchi_02/" title="Abrir Instagram"><img src="assets/contact-instagram.es.svg" width="185" height="56" alt="Instagram" title="Instagram" /></a>
+  <a href="mailto:Yuzu_0204@outlook.com" title="Abrir Correo"><img src="assets/contact-email.es.svg" width="236" height="56" alt="Correo" title="Correo" /></a>&ensp;
+  <a href="https://discord.com/users/483845680469901317" title="Abrir Discord"><img src="assets/contact-discord.es.svg" width="236" height="56" alt="Discord" title="Discord" /></a>&ensp;
+  <a href="https://dev.to/yuzu02" title="Abrir DEV.to"><img src="assets/contact-devto.es.svg" width="236" height="56" alt="DEV.to" title="DEV.to" /></a>
+</p>
+
+<p align="center">
+  <a href="https://x.com/Yuzucchi0204" title="Abrir X"><img src="assets/contact-x.es.svg" width="236" height="56" alt="X" title="X" /></a>&ensp;
+  <a href="https://t.me/Yuzu02" title="Abrir Telegram"><img src="assets/contact-telegram.es.svg" width="236" height="56" alt="Telegram" title="Telegram" /></a>&ensp;
+  <a href="https://www.instagram.com/yuzuchi_02/" title="Abrir Instagram"><img src="assets/contact-instagram.es.svg" width="236" height="56" alt="Instagram" title="Instagram" /></a>
 </p>
 
 <p align="center">

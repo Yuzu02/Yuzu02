@@ -108,12 +108,15 @@ I like to understand the *why* before writing the *how*. Then I build in small s
 ## Find me around the web
 
 <p align="center">
-  <a href="mailto:Yuzu_0204@outlook.com" title="Open Email"><img src="assets/contact-email.svg" width="157" height="56" alt="Email" title="Email" /></a>
-  <a href="https://discord.com/users/483845680469901317" title="Open Discord"><img src="assets/contact-discord.svg" width="165" height="56" alt="Discord" title="Discord" /></a>
-  <a href="https://dev.to/yuzu02" title="Open DEV.to"><img src="assets/contact-devto.svg" width="154" height="56" alt="DEV.to" title="DEV.to" /></a>
-  <a href="https://x.com/Yuzucchi0204" title="Open X"><img src="assets/contact-x.svg" width="103" height="56" alt="X" title="X" /></a>
-  <a href="https://t.me/Yuzu02" title="Open Telegram"><img src="assets/contact-telegram.svg" width="177" height="56" alt="Telegram" title="Telegram" /></a>
-  <a href="https://www.instagram.com/yuzuchi_02/" title="Open Instagram"><img src="assets/contact-instagram.svg" width="185" height="56" alt="Instagram" title="Instagram" /></a>
+  <a href="mailto:Yuzu_0204@outlook.com" title="Open Email"><img src="assets/contact-email.svg" width="236" height="56" alt="Email" title="Email" /></a>&ensp;
+  <a href="https://discord.com/users/483845680469901317" title="Open Discord"><img src="assets/contact-discord.svg" width="236" height="56" alt="Discord" title="Discord" /></a>&ensp;
+  <a href="https://dev.to/yuzu02" title="Open DEV.to"><img src="assets/contact-devto.svg" width="236" height="56" alt="DEV.to" title="DEV.to" /></a>
+</p>
+
+<p align="center">
+  <a href="https://x.com/Yuzucchi0204" title="Open X"><img src="assets/contact-x.svg" width="236" height="56" alt="X" title="X" /></a>&ensp;
+  <a href="https://t.me/Yuzu02" title="Open Telegram"><img src="assets/contact-telegram.svg" width="236" height="56" alt="Telegram" title="Telegram" /></a>&ensp;
+  <a href="https://www.instagram.com/yuzuchi_02/" title="Open Instagram"><img src="assets/contact-instagram.svg" width="236" height="56" alt="Instagram" title="Instagram" /></a>
 </p>
 
 <p align="center">
